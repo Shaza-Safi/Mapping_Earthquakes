@@ -10,15 +10,15 @@ This assignment consists of three technical analysis deliverables as follows:
 
 Deliverable 1: Add Tectonic Plate Data
 
-![TectonicPlates](https://user-images.githubusercontent.com/88908758/142764025-c44768d7-05f8-4298-8815-d64397fb6565.PNG)
+![TectonicPlates](https://user-images.githubusercontent.com/88908758/142764319-1f7846f4-91cd-4c65-9714-3ed2b18755ae.PNG)
 
 Deliverable 2: Add Major Earthquake Data
 
-![MajorEQ](https://user-images.githubusercontent.com/88908758/142764020-38f252ed-f811-4173-96de-c06bbe0a7949.PNG)
+![MajorEQ](https://user-images.githubusercontent.com/88908758/142764331-c16fb882-5eab-49ea-b9d1-e8d1f5ae4d30.PNG)
 
 Deliverable 3: Add an Additional Map 
 
 I chose the Night Navigation Layer as follows: 
 
-![NightVisionLayer](https://user-images.githubusercontent.com/88908758/142764049-85fcc99b-1e2b-4a21-b6f1-402f11438301.PNG)
+![NightVisionLayer](https://user-images.githubusercontent.com/88908758/142764327-0bb8a82f-6ccf-4230-bce7-569cfde5e7c9.PNG)
 
